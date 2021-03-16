@@ -1,5 +1,5 @@
-- belajar css lebih jauh
 - belajar js lebih jauh
 - belajar mengetik cepat
 - paling sedikit belajar react, vue dan angular
 - memahami ux dan ui design
+- belajar menggambar
