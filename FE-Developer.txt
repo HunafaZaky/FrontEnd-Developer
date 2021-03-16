@@ -3,3 +3,5 @@
 - paling sedikit belajar react, vue dan angular
 - memahami ux dan ui design
 - belajar menggambar
+- belajar backend
+- belajar laravel
